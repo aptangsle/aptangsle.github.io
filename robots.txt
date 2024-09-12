@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aptangsle.github.io/sitemap.html.gz
+Sitemap: https://aptangsle.github.io/app/sitemap.html.gz
+Sitemap: https://aptangsle.github.io/assets/sitemap.html.gz
+Sitemap: https://aptangsle.github.io/css/sitemap.html.gz
+Sitemap: https://aptangsle.github.io/includes/sitemap.html.gz
+Sitemap: https://aptangsle.github.io/item/sitemap.html.gz
+Sitemap: https://aptangsle.github.io/src/sitemap.html.gz
